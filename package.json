@@ -1,0 +1,13 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "Clone da tela principal do Netflix construído no bootcamp HTML Web Developer com a Digital Innovation One e Felipe Aguiar",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "ViniciusHP",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
