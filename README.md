@@ -23,8 +23,7 @@
 
 ## **Sobre o projeto**
 
-Clone da tela principal do Netflix construído no bootcamp [HTML Web Developer](https://digitalinnovation.one/bootcamps/html-web-developer) com a [Digital Innovation One](https://digitalinnovation.one/) e 
-[Felipe Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/). [Link para o repositório original.](https://github.com/felipeAguiarCode/netflix-clone)
+Clone da tela principal do Netflix construído no bootcamp [HTML Web Developer](https://digitalinnovation.one/bootcamps/html-web-developer) com a [Digital Innovation One](https://digitalinnovation.one/) e o [Felipe Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/). [Link para o repositório original.](https://github.com/felipeAguiarCode/netflix-clone)
 
 ## **Adicionais**
 Nesta versão foi acrescentado:
