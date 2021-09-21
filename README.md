@@ -7,6 +7,7 @@
 <div align="center">
   <img src="img/pagina.jpg" alt="Início da página" width="686">
 </div>
+
 <div align="center">
   <img src="img/popup.jpg" alt="Popup da página" width="686">
 </div>
@@ -18,6 +19,7 @@
  <a href="#user-content-adicionais">Adicionais</a> |
  <a href="#user-content-executando-o-projeto">Executando o projeto</a> |
  <a href="#user-content-tecnologias">Tecnologias</a>
+</p>
 
 ---
 
@@ -64,4 +66,5 @@ Este projeto foi construído com as seguintes ferramentas:
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 - **[SweetAlert2](https://sweetalert2.github.io/)**
 - **[OwlCarousel2](https://owlcarousel2.github.io/OwlCarousel2/)**
+- **[Font Awesome](https://fontawesome.com/)**
 - **[Lite-server](https://github.com/johnpapa/lite-server)**
