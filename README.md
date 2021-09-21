@@ -29,7 +29,7 @@ Clone da tela principal do Netflix construído no bootcamp [HTML Web Developer](
 Nesta versão foi acrescentado:
 
 - Ao clicar no item de menu de navegação, é feito um scroll suave até a seção correspondente
-- Ao clicar em um poster, será aberta uma janela popup com o título e a sinopse
+- Ao clicar em um pôster, será aberta uma janela popup com o título e a sinopse
 - Servidor de desenvolvimento
 
 ## **Executando o projeto**
